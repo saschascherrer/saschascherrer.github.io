@@ -1,4 +1,8 @@
-# Welcome to Sascha Scherrer's Blog
+--
+title: Sascha Scherrer's Blog
+--
+
+# Welcome
 
 This is a blog on IT-related things I am interested in and work I do.
 
